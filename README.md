@@ -1,6 +1,6 @@
 # Blog Resources
 
-This repo contains resources used in [my blog](https://medium.com/@adamconkey).
+This repo contains resources used in [my blog](https://adamconkey.medium.com).
 
 ## Installation
 
